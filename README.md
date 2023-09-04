@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Amit Yadav</h1>
-<h3 align="center">A developer</h3>
+<!-- <h3 align="center">A developer</h3> -->
 
 - 💬 Ask me about **MERN**
 

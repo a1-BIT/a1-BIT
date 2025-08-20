@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Amit Yadav</h1>
 <!-- <h3 align="center">A developer</h3> -->
 
-- 💬 Ask me about **MERN**
+- 💬 Ask me about **Development and Solutions**
 
 - 📫 How to reach me **ayadav23198@gmail.com**
 
